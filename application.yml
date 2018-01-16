@@ -14,7 +14,7 @@ words: I,You,He,She,It
 
 ---
 spring:
-  profiles: lab-4-eureka-verb
+  profiles: verb
 words: corrioo,supoo,teníaa,vioo,compróo
 
 
