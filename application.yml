@@ -3,14 +3,25 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
-
-words: corrio,supo,tenía,vio,compró
-
-
 ---
 spring:
   profiles: subject
 words: I,You,He,She,It
+
+---
+spring:
+  profiles: verb
+words: corrioo,supoo,teníaa,vioo,compróo
+
+---
+spring:
+  profiles: adjetive
+words: reasonable,leaky,suspicious,ordinary,unlikely
+
+---
+spring:
+  profiles: verb
+words: corrioo,supoo,teníaa,vioo,compróo
 
 ---
 spring:
