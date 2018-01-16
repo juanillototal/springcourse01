@@ -20,12 +20,8 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
 spring:
-  profiles: verb
-words: corrioo,supoo,teníaa,vioo,compróo
+  profiles: article
+words: a,the
 
----
-spring:
-  profiles: verb
-words: corrioo,supoo,teníaa,vioo,compróo
 
 
