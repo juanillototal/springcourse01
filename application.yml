@@ -4,6 +4,9 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
 
+words: corrio,supo,tenía,vio,compró
+
+
 ---
 spring:
   profiles: subject
